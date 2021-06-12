@@ -1,0 +1,23 @@
+git init //инициируем чистый репозиторий
+git clone (url) //клонируем репозиторий по ссылке
+git config --list //список конфигураций
+
+//выставляем наши глобальные конфигурации
+
+git config --global user.name "Andarilz"
+git config --global user.email "tartarus@gmail.com"
+
+//
+
+git add //название файла для добавление в трекинг
+git status //проверка трекинга всех файлов папки
+echo 'hello' > temp // создание файла temp с текстом hello
+echo 'hahah' >> temp // добавление в файл temp текста haha
+
+
+//
+
+??
+
+//
+
