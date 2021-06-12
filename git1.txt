@@ -15,11 +15,4 @@ echo 'hello' > temp // создание файла temp с текстом hello
 echo 'hahah' >> temp // добавление в файл temp текста haha
 
 
-//
-
-??
-
-//
-
-//
 
