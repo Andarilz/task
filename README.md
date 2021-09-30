@@ -1,4 +1,3 @@
-# Appello Frontend developer test task
 
 Перед тобой проект на стеке React + Redux. Он представляет собой поисковую строку, при вводе в которую происходит [поиск персонажей "Star Wars"](https://swapi.dev/api/people/) и вывод результатов поиска.
 
